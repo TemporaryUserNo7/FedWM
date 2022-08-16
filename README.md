@@ -10,7 +10,7 @@ CUDA required
 
 To run the demo of FedWM, run 
 
-`python Autoencoder.py`
+`python FedWM.py`
 
 The settings of the experiments can be modified through parameters within the script:
 ```python
